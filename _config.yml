@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 in directory: /assets/images/frofile.jpg
-#avatar:
+avatar: /assets/images/frofile.jpg
 
 
 # Table Of Contents in the Sidebar
