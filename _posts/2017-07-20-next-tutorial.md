@@ -1,5 +1,5 @@
 ---
-title: Next Theme Tutorial
+title: 四月的秘密基地
 description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
 categories:
  - tutorial
